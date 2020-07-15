@@ -6,38 +6,41 @@
             "c/actions": [
                 "actions/actions.js"
             ],
-            "c/add-todo": [
+            "c/addTodo": [
                 "addTodo/addTodo.js"
             ],
-            "c/filter-link": [
+            "c/filterLink": [
                 "filterLink/filterLink.js"
             ],
             "c/reducers": [
                 "reducers/reducers.js"
             ],
-            "c/todo-app": [
+            "c/todoApp": [
                 "todoApp/todoApp.js"
             ],
-            "c/todo-footer": [
+            "c/todoFooter": [
                 "todoFooter/todoFooter.js"
             ],
-            "c/todo-item": [
+            "c/todoItem": [
                 "todoItem/todoItem.js"
             ],
-            "c/todo-list": [
+            "c/todoList": [
                 "todoList/todoList.js"
             ],
             "c/connect": [
                 "../../../main/default/lwc/connect/connect.js"
             ],
-            "c/logger": [
-                "../../../main/default/lwc/logger/logger.js"
+            "c/constants": [
+                "../../../main/default/lwc/constants/constants.js"
             ],
             "c/provider": [
                 "../../../main/default/lwc/provider/provider.js"
             ],
             "c/reselect": [
                 "../../../main/default/lwc/reselect/reselect.js"
+            ],
+            "c/utils": [
+                "../../../main/default/lwc/utils/utils.js"
             ]
         }
     },
@@ -45,5 +48,10 @@
         "**/*",
         "../../../../.sfdx/typings/lwc/**/*.d.ts",
         "../../../.sfdx/typings/lwc/**/*.d.ts"
-    ]
+    ],
+    "typeAcquisition": {
+        "include": [
+            "jest"
+        ]
+    }
 }
