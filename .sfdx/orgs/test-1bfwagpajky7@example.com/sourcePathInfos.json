@@ -2,14 +2,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1594834218081,
             "changeTime": 1594834218081,
             "contentHash": "73857ce0b6a9a9676daf3ba81819bf039fad1c40",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1594834218076,
             "changeTime": 1594834218076,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,14 +32,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1594834218076,
             "changeTime": 1594834218076,
             "contentHash": "829e3cbe114692d1a8542419a3a8e09849d49353",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -47,14 +47,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 384,
-            "modifiedTime": 1594834218080,
+            "modifiedTime": 1594835470786,
             "changeTime": 1594834218080,
             "contentHash": "4f5223d73fb21d6b51717bb589ea7ad616a43bad",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,14 +62,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/actions",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/actions",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1594834218077,
             "changeTime": 1594834218077,
             "contentHash": "f8f54e16614218e8ce6327e1983bd25538cbecd8",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -77,14 +77,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/actions/actions.js",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/actions/actions.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 440,
             "modifiedTime": 1594834218077,
             "changeTime": 1594834218077,
             "contentHash": "c40b40ebc00ad9d8ad067fbc8594faf780838628",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -92,14 +92,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/actions/actions.js-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/actions/actions.js-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 220,
             "modifiedTime": 1594834218077,
             "changeTime": 1594834218077,
             "contentHash": "fbbb455420e19a2963bfb713b14be5536bde912a",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -107,14 +107,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/addTodo",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/addTodo",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 160,
-            "modifiedTime": 1594834218077,
+            "modifiedTime": 1594836530401,
             "changeTime": 1594834218077,
             "contentHash": "c33927e531c4c5c433a5bd54e678ac3e97cef2fe",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -126,25 +126,24 @@
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/addTodo/addTodo.html",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 299,
-            "modifiedTime": 1594834218077,
-            "changeTime": 1594834218077,
-            "contentHash": "6b3315707b48b1cc65bfcbb586618aa5d718048b",
+            "size": 289,
+            "modifiedTime": 1594840777670,
+            "changeTime": 1594840777670,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "10d54d0298b2624ce912fed48ce6025774f144bb"
         }
     ],
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/addTodo/addTodo.js",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/addTodo/addTodo.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 510,
             "modifiedTime": 1594834218077,
             "changeTime": 1594834218077,
             "contentHash": "524d690c8e77d6f1a903a83f89024d6e6a1d45b7",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -152,14 +151,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/addTodo/addTodo.js-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/addTodo/addTodo.js-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 223,
             "modifiedTime": 1594834218077,
             "changeTime": 1594834218077,
             "contentHash": "804643b4335c9cdfd182ef60719d9a47556da539",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -167,14 +166,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/filterLink",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/filterLink",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 160,
             "modifiedTime": 1594834218078,
             "changeTime": 1594834218078,
             "contentHash": "c912e9bd3a9f39bf0274cf27106a5e514fb3c1b2",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -182,14 +181,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/filterLink/filterLink.html",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/filterLink/filterLink.html",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 187,
             "modifiedTime": 1594834218078,
             "changeTime": 1594834218078,
             "contentHash": "092a1613f89b8de5c43592167b2d0b4fc9e20c99",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -197,14 +196,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/filterLink/filterLink.js",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/filterLink/filterLink.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 606,
             "modifiedTime": 1594834218078,
             "changeTime": 1594834218078,
             "contentHash": "f39b1e1641192d377864591135b658f9626880c4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -212,14 +211,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/filterLink/filterLink.js-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/filterLink/filterLink.js-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 223,
             "modifiedTime": 1594834218078,
             "changeTime": 1594834218078,
             "contentHash": "804643b4335c9cdfd182ef60719d9a47556da539",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -227,14 +226,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/reducers",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/reducers",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1594834218079,
             "changeTime": 1594834218079,
             "contentHash": "ae47bc8b0098328b03dbd9f248ba14e972ccd0fc",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -242,14 +241,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/reducers/reducers.js",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/reducers/reducers.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 129,
             "modifiedTime": 1594834218078,
             "changeTime": 1594834218078,
             "contentHash": "9bbedd0a35c5cf7e03c125aaa5af01b67c212ce1",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -257,14 +256,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/reducers/reducers.js-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/reducers/reducers.js-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 223,
             "modifiedTime": 1594834218078,
             "changeTime": 1594834218078,
             "contentHash": "3bcc7e97825b51f7a666cb4bfa1c58e774e064b8",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -272,14 +271,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/reducers/todos.js",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/reducers/todos.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 662,
             "modifiedTime": 1594834218078,
             "changeTime": 1594834218078,
             "contentHash": "a051e2aa105efdcfa317a5663456e82e090966f7",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -287,14 +286,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/reducers/visibilityFilter.js",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/reducers/visibilityFilter.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 302,
             "modifiedTime": 1594834218079,
             "changeTime": 1594834218079,
             "contentHash": "d37ab3f5fa22c4ecf1ec9af93c5aa8eaf5720a48",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -302,14 +301,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoApp",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoApp",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 160,
             "modifiedTime": 1594834218079,
             "changeTime": 1594834218079,
             "contentHash": "3b7d116ce009c810af5ff37242053d560c513def",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -317,14 +316,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoApp/todoApp.html",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoApp/todoApp.html",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 332,
             "modifiedTime": 1594834218079,
             "changeTime": 1594834218079,
             "contentHash": "e552bba0524119bdace60b0ccfbc7186465696c0",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -332,14 +331,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoApp/todoApp.js",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoApp/todoApp.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 162,
             "modifiedTime": 1594834218079,
             "changeTime": 1594834218079,
             "contentHash": "a284c02fc61d2bd93a332cd8f569bd75a823597e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -347,14 +346,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoApp/todoApp.js-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoApp/todoApp.js-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 369,
             "modifiedTime": 1594834218079,
             "changeTime": 1594834218079,
             "contentHash": "5096584b5c9a0e0e20d15d487c516c53bfd14862",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -362,14 +361,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoFooter",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoFooter",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 160,
             "modifiedTime": 1594834218080,
             "changeTime": 1594834218080,
             "contentHash": "b9b38bf602b640ccd363595cdaf8aadb0e8bfcd1",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -381,25 +380,24 @@
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoFooter/todoFooter.html",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 315,
-            "modifiedTime": 1594834218079,
-            "changeTime": 1594834218079,
-            "contentHash": "18ec656cb18627667c9b3a9fe5bf5296a41373a5",
+            "size": 386,
+            "modifiedTime": 1594840857795,
+            "changeTime": 1594840857795,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "bd6c3f9841b02a5d6a596d1651aa9bb21d7564d4"
         }
     ],
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoFooter/todoFooter.js",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoFooter/todoFooter.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 195,
             "modifiedTime": 1594834218080,
             "changeTime": 1594834218080,
             "contentHash": "be1ebc65eb30b22e863daad934e032a441947147",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -407,14 +405,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoFooter/todoFooter.js-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoFooter/todoFooter.js-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 223,
             "modifiedTime": 1594834218080,
             "changeTime": 1594834218080,
             "contentHash": "804643b4335c9cdfd182ef60719d9a47556da539",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -422,14 +420,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoItem",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoItem",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1594834218080,
             "changeTime": 1594834218080,
             "contentHash": "cf8280a1b59039f16c4142616c0b7fa5cca7efcd",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -437,14 +435,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoItem/todoItem.css",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoItem/todoItem.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 53,
             "modifiedTime": 1594834218080,
             "changeTime": 1594834218080,
             "contentHash": "42d9cab1c46cb7ec4d30d4c1fb5d3a05f907cf45",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -452,14 +450,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoItem/todoItem.html",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoItem/todoItem.html",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 118,
             "modifiedTime": 1594834218080,
             "changeTime": 1594834218080,
             "contentHash": "f23c7bddc161e05506194906bf6bfae0bfee665f",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -467,14 +465,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoItem/todoItem.js",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoItem/todoItem.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 535,
             "modifiedTime": 1594834218080,
             "changeTime": 1594834218080,
             "contentHash": "878400acf580cbbce61d83118b318478c24c39ac",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -482,14 +480,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoItem/todoItem.js-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoItem/todoItem.js-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 223,
             "modifiedTime": 1594834218080,
             "changeTime": 1594834218080,
             "contentHash": "804643b4335c9cdfd182ef60719d9a47556da539",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -497,14 +495,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoList",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoList",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 160,
             "modifiedTime": 1594834218081,
             "changeTime": 1594834218081,
             "contentHash": "616a93fc8db4eb7e62a0b8c1be9c151cdca36eac",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -512,14 +510,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoList/todoList.html",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoList/todoList.html",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 312,
             "modifiedTime": 1594834218081,
             "changeTime": 1594834218081,
             "contentHash": "1f22050282cb33bad12553b05c6299d656ba9add",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -527,14 +525,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoList/todoList.js",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoList/todoList.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 801,
             "modifiedTime": 1594834218081,
             "changeTime": 1594834218081,
             "contentHash": "8f32540ad93c813c3e3baac1115d21d4aebc9564",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -542,14 +540,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoList/todoList.js-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoList/todoList.js-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 223,
             "modifiedTime": 1594834218081,
             "changeTime": 1594834218081,
             "contentHash": "ae1a277c4289dc0729fd335c09fe71306acb4f2f",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -557,14 +555,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1594834218081,
             "changeTime": 1594834218081,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -572,14 +570,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1594834218083,
             "changeTime": 1594834218083,
             "contentHash": "729eedc822ca6f9d4360f3f5ddddda5cea68b154",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -587,14 +585,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 288,
-            "modifiedTime": 1594834218083,
+            "modifiedTime": 1594835470789,
             "changeTime": 1594834218083,
             "contentHash": "9ef9c633a384670a29c6be953aebfccefad17fbc",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -602,14 +600,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/connect",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/connect",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
-            "modifiedTime": 1594834218081,
+            "modifiedTime": 1594835470787,
             "changeTime": 1594834218081,
             "contentHash": "83521d32276e28f5f24e096d58a6976bda9e7f17",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -617,14 +615,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/connect/connect.js",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/connect/connect.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1108,
-            "modifiedTime": 1594834272109,
+            "modifiedTime": 1594835470787,
             "changeTime": 1594834272109,
             "contentHash": "6fd3ecc9b06511d1e894317753dfb51883d0ffba",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -632,14 +630,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/connect/connect.js-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/connect/connect.js-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 222,
             "modifiedTime": 1594834218081,
             "changeTime": 1594834218081,
             "contentHash": "4ba071e3accf17b03b30496360997bf0faa1e069",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -647,14 +645,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/constants",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/constants",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
-            "modifiedTime": 1594834218082,
+            "modifiedTime": 1594835470788,
             "changeTime": 1594834218082,
             "contentHash": "f639aeb5656a9ecc61ec9269bdf9c19214e6c351",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -662,14 +660,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/constants/constants.js",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/constants/constants.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 42,
-            "modifiedTime": 1594834218082,
+            "modifiedTime": 1594835470788,
             "changeTime": 1594834218082,
             "contentHash": "b9fb681e21d0b09b2133a555e86bc58458d2f3b5",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -677,14 +675,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/constants/constants.js-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/constants/constants.js-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 224,
-            "modifiedTime": 1594834218082,
+            "modifiedTime": 1594835470788,
             "changeTime": 1594834218082,
             "contentHash": "a5a075a512574127be1ef2cdbe8cdbc9519fd7ee",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -692,14 +690,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/provider",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/provider",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 160,
-            "modifiedTime": 1594834218082,
+            "modifiedTime": 1594835470789,
             "changeTime": 1594834218082,
             "contentHash": "66858b0bc06a78604ed120bd7949b34d30ae806b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -707,14 +705,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/provider/provider.html",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/provider/provider.html",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 100,
             "modifiedTime": 1594834218082,
             "changeTime": 1594834218082,
             "contentHash": "ded1e98d361ed7b71bf9512ec049e1474460391f",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -722,14 +720,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/provider/provider.js",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/provider/provider.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2864,
-            "modifiedTime": 1594834218082,
+            "modifiedTime": 1594835470789,
             "changeTime": 1594834218082,
             "contentHash": "2dee2618d34337ae2a72839bd491332550a8b615",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -737,14 +735,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/provider/provider.js-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/provider/provider.js-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 223,
             "modifiedTime": 1594834218082,
             "changeTime": 1594834218082,
             "contentHash": "32c49a57af373f703d7d374e556514bcaabb09de",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -752,14 +750,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/reselect",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/reselect",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1594834218083,
             "changeTime": 1594834218083,
             "contentHash": "cd04a4ee5e5531276becab15b80dfe5a586a1dbb",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -767,14 +765,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/reselect/reselect.js",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/reselect/reselect.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 3405,
             "modifiedTime": 1594834218083,
             "changeTime": 1594834218083,
             "contentHash": "5b9323b86c26e3bc7aa10efea9382fd4310c426c",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -782,14 +780,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/reselect/reselect.js-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/reselect/reselect.js-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 223,
             "modifiedTime": 1594834218083,
             "changeTime": 1594834218083,
             "contentHash": "e5a213c6d163220c876849c1443b35fc1e7027a0",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -797,14 +795,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/utils",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/utils",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
-            "modifiedTime": 1594834218083,
+            "modifiedTime": 1594835470789,
             "changeTime": 1594834218083,
             "contentHash": "cd3d2df094a1b2f23e367af00e90213e5bbfd65e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -812,14 +810,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/utils/utils.js",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/utils/utils.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1104,
-            "modifiedTime": 1594834218083,
+            "modifiedTime": 1594835470789,
             "changeTime": 1594834218083,
             "contentHash": "ef8a3d03145540c2ccd4a2b82ff017d606fa66b1",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -827,14 +825,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/utils/utils.js-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/utils/utils.js-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 220,
-            "modifiedTime": 1594834218083,
+            "modifiedTime": 1594835470789,
             "changeTime": 1594834218083,
             "contentHash": "fbbb455420e19a2963bfb713b14be5536bde912a",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -842,14 +840,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 256,
             "modifiedTime": 1594834218085,
             "changeTime": 1594834218085,
             "contentHash": "a0c0a14ab120bf8ada989a761e8c0bb26f897611",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -857,14 +855,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources/lodash.js",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources/lodash.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 97210,
             "modifiedTime": 1594834218084,
             "changeTime": 1594834218084,
             "contentHash": "f36e85105842fedbedd9e1d5540dce6192f8bc6a",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -872,14 +870,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources/lodash.resource-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources/lodash.resource-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 300,
             "modifiedTime": 1594834218084,
             "changeTime": 1594834218084,
             "contentHash": "3108fdf5d45a47900cbc95a8c5583d50a0e48006",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -887,14 +885,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources/redux.js",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources/redux.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 7300,
             "modifiedTime": 1594834218084,
             "changeTime": 1594834218084,
             "contentHash": "a0360ecad5115b42174348a59c4fe6204cb06772",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -902,14 +900,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources/redux.resource-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources/redux.resource-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 215,
             "modifiedTime": 1594834218084,
             "changeTime": 1594834218084,
             "contentHash": "13e56755dbc9e41655ab1707ea946ae19affd7b5",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -917,14 +915,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources/reduxThunk.js",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources/reduxThunk.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 832,
             "modifiedTime": 1594834218085,
             "changeTime": 1594834218085,
             "contentHash": "b85e0c4603be0a7abaad04f88481934c3a393fae",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -932,14 +930,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources/reduxThunk.resource-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources/reduxThunk.resource-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 215,
             "modifiedTime": 1594834218085,
             "changeTime": 1594834218085,
             "contentHash": "13e56755dbc9e41655ab1707ea946ae19affd7b5",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -947,14 +945,14 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux",
         {
-            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 416,
-            "modifiedTime": 1594834808890,
+            "modifiedTime": 1594835470786,
             "changeTime": 1594834808890,
             "contentHash": "4e1d3c3eccf5aac59e050d14fcc55428f4d7da43",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
