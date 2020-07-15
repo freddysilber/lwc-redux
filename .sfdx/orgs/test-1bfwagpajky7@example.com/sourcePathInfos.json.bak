@@ -2,7 +2,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -17,7 +17,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -32,7 +32,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -47,7 +47,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -62,7 +62,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/actions",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/actions",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -77,7 +77,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/actions/actions.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/actions/actions.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -92,7 +92,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/actions/actions.js-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/actions/actions.js-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -107,7 +107,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/addTodo",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/addTodo",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -122,7 +122,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/addTodo/addTodo.html",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/addTodo/addTodo.html",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -137,7 +137,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/addTodo/addTodo.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/addTodo/addTodo.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -152,7 +152,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/addTodo/addTodo.js-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/addTodo/addTodo.js-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -167,7 +167,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/filterLink",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/filterLink",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -182,7 +182,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/filterLink/filterLink.html",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/filterLink/filterLink.html",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -197,7 +197,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/filterLink/filterLink.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/filterLink/filterLink.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -212,7 +212,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/filterLink/filterLink.js-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/filterLink/filterLink.js-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -227,7 +227,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/reducers",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/reducers",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -242,7 +242,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/reducers/reducers.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/reducers/reducers.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -257,7 +257,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/reducers/reducers.js-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/reducers/reducers.js-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -272,7 +272,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/reducers/todos.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/reducers/todos.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -287,7 +287,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/reducers/visibilityFilter.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/reducers/visibilityFilter.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -302,7 +302,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoApp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoApp",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -317,7 +317,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoApp/todoApp.html",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoApp/todoApp.html",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -332,7 +332,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoApp/todoApp.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoApp/todoApp.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -347,7 +347,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoApp/todoApp.js-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoApp/todoApp.js-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -362,7 +362,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoFooter",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoFooter",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -377,7 +377,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoFooter/todoFooter.html",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoFooter/todoFooter.html",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -392,7 +392,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoFooter/todoFooter.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoFooter/todoFooter.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -407,7 +407,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoFooter/todoFooter.js-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoFooter/todoFooter.js-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -422,7 +422,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoItem",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoItem",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -437,7 +437,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoItem/todoItem.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoItem/todoItem.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -452,7 +452,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoItem/todoItem.html",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoItem/todoItem.html",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -467,7 +467,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoItem/todoItem.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoItem/todoItem.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -482,7 +482,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoItem/todoItem.js-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoItem/todoItem.js-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -497,7 +497,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoList",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoList",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -512,7 +512,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoList/todoList.html",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoList/todoList.html",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -527,7 +527,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoList/todoList.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoList/todoList.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -542,7 +542,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoList/todoList.js-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/example/default/lwc/todoList/todoList.js-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -557,7 +557,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -572,7 +572,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -587,7 +587,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -602,7 +602,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/connect",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/connect",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -617,7 +617,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/connect/connect.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/connect/connect.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -632,7 +632,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/connect/connect.js-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/connect/connect.js-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -647,7 +647,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/constants",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/constants",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -662,7 +662,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/constants/constants.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/constants/constants.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -677,7 +677,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/constants/constants.js-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/constants/constants.js-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -692,7 +692,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/provider",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/provider",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -707,7 +707,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/provider/provider.html",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/provider/provider.html",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -722,7 +722,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/provider/provider.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/provider/provider.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -737,7 +737,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/provider/provider.js-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/provider/provider.js-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -752,7 +752,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/reselect",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/reselect",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -767,7 +767,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/reselect/reselect.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/reselect/reselect.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -782,7 +782,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/reselect/reselect.js-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/reselect/reselect.js-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -797,7 +797,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/utils",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/utils",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -812,7 +812,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/utils/utils.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/utils/utils.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -827,7 +827,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/utils/utils.js-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/lwc/utils/utils.js-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -842,7 +842,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -857,7 +857,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources/lodash.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources/lodash.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -872,7 +872,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources/lodash.resource-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources/lodash.resource-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -887,7 +887,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources/redux.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources/redux.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -902,7 +902,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources/redux.resource-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources/redux.resource-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -917,7 +917,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources/reduxThunk.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources/reduxThunk.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -932,7 +932,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources/reduxThunk.resource-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux/force-app/main/default/staticresources/reduxThunk.resource-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -947,7 +947,7 @@
     [
         "/Users/freddysilber/Documents/GitHub/lwc-redux",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/freddysilber/Documents/GitHub/lwc-redux",
             "isDirectory": true,
             "isMetadataFile": false,
